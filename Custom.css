@@ -647,6 +647,8 @@ body.compact .help-window-outer {
   -webkit-filter:invert(100%);
 }
 
+#-webkit-web-inspector .expand-element{-webkit-filter:invert(100%);}
+
 /*************************************************/
 /*Sources Panel                                  */
 /*Added: 9/30/13                                 */
